@@ -11,6 +11,7 @@ I'm Pervaiz Aslam a Senior Full Stack Javascript developer from Hunza Valley in 
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="24"></a> 
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ago"><img alt="go" src="https://img.shields.io/badge/Go-007ACC.svg?logo=go&logoColor=white" height="24"></a>
 </p>
 
 #### 🧰 Frameworks and libraries
