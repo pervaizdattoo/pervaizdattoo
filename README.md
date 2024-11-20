@@ -1,6 +1,6 @@
 ### Intro 👋
 
-I'm Pervaiz Aslam a Senior Full Stack Javascript developer from Hunza Valley in Northern Pakistan. I've been in Software Development for the last 6+ years and I have extensive knowledg of both Javascript and PHP frameworks. I have 4+ years of experience in React, 3+ years of experience with Laravel, 2 years in Vue js, and 4+ years in Node JS. I spend my last 6 years of full-time learning and working on different technologies
+I'm Pervaiz Aslam a Senior Full Stack Software Engineer from Hunza Valley in Northern Pakistan. I've been in Software Development for the last 6+ years and I have extensive knowledg of Javascript, Go and PHP frameworks. I have 4+ years of experience in React, 3+ years of experience with Laravel, 2+ years of experience with Go, 2+ years in Vue js, and 4+ years in Node JS. I spend my last 6 years of full-time learning and working on different technologies
 
 #### 👨‍💻 Programming and markup languages
 
